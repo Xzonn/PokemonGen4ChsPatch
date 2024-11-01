@@ -18,4 +18,4 @@
 
 ## 效果预览
 
-![游戏截图](assets/images/screenshot-D.png) ![游戏截图](assets/images/screenshot-HG.png)
+![游戏截图](assets/images/screenshot-D.png) ![游戏截图](assets/images/screenshot-Pt.png) ![游戏截图](assets/images/screenshot-HG.png)
