@@ -11,7 +11,10 @@
 
 ### 字体补丁
 
-（可选）根据游戏版本和语言版本导航到对应的目录下，采用 [NitroPatcher](https://github.com/Xzonn/NitroPatcher) 应用相应的 XZP 补丁。也可使用 [PCTRTools](https://github.com/Xzonn/PCTRTools) 自行创建字体。
+（二者选其一）
+
+1. 根据游戏版本和语言版本导航到对应的目录下，采用 [NitroPatcher](https://github.com/Xzonn/NitroPatcher) 应用相应的 XZP 补丁。
+2. 也可使用 [PCTRTools](https://github.com/Xzonn/PCTRTools) 自行创建字体并导入，但请确保使用 [《宝可梦》第四世代汉化修正补丁所用的码表](https://github.com/Xzonn/PokemonChineseTranslationRevise/blob/master/files/CharTable.txt)。
 
 ## 效果预览
 
