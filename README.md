@@ -19,3 +19,6 @@
 ## 效果预览
 
 ![游戏截图](assets/images/screenshot-D.png) ![游戏截图](assets/images/screenshot-Pt.png) ![游戏截图](assets/images/screenshot-HG.png)
+
+## 参见
+- [基于 pret 项目的《宝可梦 钻石／珍珠》汉化](https://xzonn.top/posts/Pokemon-DP-Chinese-Localization-Based-on-Pret-Project.html)
